@@ -9,3 +9,4 @@ $name = $argv[1];
 //Returning the text to the command line
 echo "Hello " . $name . "!\n";
 //Replaces a line of comment with something else
+//And another comment

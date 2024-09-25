@@ -8,7 +8,11 @@ $name = $argv[1];
 }
 //Returning the text to the command line
 echo "Hello " . $name . "!\n";
+
+//Replaces a line of comment with something else
+//And another comment
 //Another comment for release2
 //comment for release1
 //another comment for release1
 //third comment for release
+
